@@ -6,7 +6,15 @@ static String grupo = "<495719, 495913, 558311>";
 PilhaDeTabelas pilhaDeTabelas = new PilhaDeTabelas();
 }
 
+/**
+ * Implementamos as verificações das regras 
+ * semânticas por meio de visitor. O código 
+ * está no arquivo LuazinhaBaseVisitor.java
+ */
+
 /*
+ * As ações que já estavam implementadas aqui
+ * foram transferidas para o código do visitor.
 { pilhaDeTabelas.empilhar(new TabelaDeSimbolos("global")); }
 { pilhaDeTabelas.desempilhar(); }
 */

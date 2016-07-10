@@ -3,13 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/vitor/Desktop/Compiladores/T2/src/trabalho2/TabelaDeSimbolos.java</file>
-            <file>file:/Users/vitor/Desktop/Compiladores/T2/src/trabalho2/EntradaTabelaDeSimbolos.java</file>
-            <file>file:/Users/vitor/Desktop/Compiladores/T2/src/trabalho2/LuazinhaBaseVisitor.java</file>
-            <file>file:/Users/vitor/Desktop/Compiladores/T2/src/trabalho2/TestaAnalisadorSemantico.java</file>
-            <file>file:/Users/vitor/Desktop/Compiladores/T2/src/trabalho2/LuazinhaParser.java</file>
-            <file>file:/Users/vitor/Desktop/Compiladores/T2/src/trabalho2/Saida.java</file>
-            <file>file:/Users/vitor/Desktop/Compiladores/T2/src/trabalho2/PilhaDeTabelas.java</file>
+            <file>file:/Users/vitor/Desktop/Compiladores/T2/T2-Compiladores/src/trabalho2/TestaAnalisadorSemantico.java</file>
         </group>
     </open-files>
 </project-private>

@@ -39,6 +39,10 @@ public class TabelaDeSimbolos {
         return false;
     }
     
+    /**
+     * Função que verifica a existência de uma entrada
+     * com um nome e um tipo específico na tabela.
+     */
     public boolean existeSimboloTipo(String nome, String tipo) {
         for(EntradaTabelaDeSimbolos etds:simbolos) {
             if(etds.getNome().equals(nome) && etds.getTipo().equals(tipo)) {
